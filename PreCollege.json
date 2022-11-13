@@ -1,0 +1,204 @@
+[
+  {
+    "name": "AP Art History with score of 4 or 5",
+    "credits": "4",
+    "gened": "AT"
+  },
+  {
+    "name": "AP Art Studio Art-Drawing with score of 4 or 5",
+    "credits": "4",
+    "gened": "AT"
+  },
+  {
+    "name": "AP Art Studio Art-2-D Design with score of 4 or 5",
+    "credits": "4",
+    "gened": "AT"
+  },
+  {
+    "name": "AP Art Studio Art 3-D Design with score of 4 or 5",
+    "credits": "3"
+  },
+  {
+    "name": "AP Biology with score of 4 or 5",
+    "credits": "4",
+    "gened": "BS"
+  },
+  {
+    "name": "AP Calculus AB with score of 4 or 5",
+    "credits": "4",
+    "gened": "R2",
+    "corresponding_course": "MATH 131"
+  },
+  {
+    "name": "AP Calculus BC with score of 4 or 5",
+    "credits": "8",
+    "gened": "R2",
+    "corresponding_course": [
+      "MATH 131",
+      "MATH 132"
+    ]
+  },
+  {
+    "name": "AP Calculus BC - AB subscore with score of 4 or 5",
+    "credits": "4",
+    "gened": "R2",
+    "corresponding_course": "MATH 131"
+  },
+  {
+    "name": "AP Chemistry with score of 4 or 5",
+    "credits": "4",
+    "gened": "PS"
+  },
+  {
+    "name": "AP Chinese with score of 4 or 5",
+    "credits": "6"
+  },
+  {
+    "name": "AP Comp Sci A with score of 4 or 5",
+    "credits": "4",
+    "gened": "R2",
+    "corresponding_course": "COMPSCI 121"
+  },
+  {
+    "name": "AP Computer Principles with score of 4 or 5",
+    "credits": "3",
+    "corresponding_course": "INFO 101"
+  },
+  {
+    "name": "AP Econ \u2013 Micro with score of 4 or 5",
+    "credits": "4",
+    "gened": "SB"
+  },
+  {
+    "name": "AP Econ \u2013 Macro with score of 4 or 5",
+    "credits": "4",
+    "gened": "SB"
+  },
+  {
+    "name": "AP Engl Lang & Comp with score of 4 or 5",
+    "credits": "3",
+    "gened": "CW"
+  },
+  {
+    "name": "AP Engl Lit & Comp with score of 4 or 5",
+    "credits": "4",
+    "gened": "AL"
+  },
+  {
+    "name": "AP Environmental Science with score of 4 or 5",
+    "credits": "4",
+    "gened": "BS"
+  },
+  {
+    "name": "AP French Language and Culture with score of 3",
+    "credits": "3"
+  },
+  {
+    "name": "AP French Language and Culture with score of 4 or 5",
+    "credits": "6"
+  },
+  {
+    "name": "AP German Language and Culture with score of 4 or 5",
+    "credits": "6"
+  },
+  {
+    "name": "AP Govern & Politics (U.S.) with score of 4 or 5",
+    "credits": "4",
+    "gened": "SB"
+  },
+  {
+    "name": "AP Govern & Politics (Comparative) with score of 4 or 5",
+    "credits": "4",
+    "gened": "SB, DG"
+  },
+  {
+    "name": "AP History, U.S. with score of 4 or 5",
+    "credits": "8",
+    "gened": "HS"
+  },
+  {
+    "name": "AP History, European with score of 4 or 5",
+    "credits": "8",
+    "gened": "HS"
+  },
+  {
+    "name": "AP History, World with score of 4 or 5",
+    "credits": "8",
+    "gened": "HS, DG"
+  },
+  {
+    "name": "AP Human Geography with score of 3",
+    "credits": "4",
+    "gened": "SB, DG"
+  },
+  {
+    "name": "AP Human Geography with score of 4 or 5",
+    "credits": "8",
+    "gened": "PS, SB, DG"
+  },
+  {
+    "name": "AP Italian Language and Culture with score of 3",
+    "credits": "3"
+  },
+  {
+    "name": "AP Italian Language and Culture with score of 4 or 5",
+    "credits": "6"
+  },
+  {
+    "name": "AP Latin Vergil with score of 4 or 5",
+    "credits": "3"
+  },
+  {
+    "name": "AP Music Theory with score of 4 or 5",
+    "credits": "3"
+  },
+  {
+    "name": "AP Physics 1 with score of 3, 4 or 5",
+    "credits": "4",
+    "gened": "PS"
+  },
+  {
+    "name": "AP Physics 2 with score of 3, 4 or 5",
+    "credits": "4",
+    "gened": "PS"
+  },
+  {
+    "name": "AP Physics C - Mechanics with score of 4 or 5",
+    "credits": "4",
+    "gened": "PS",
+    "corresponding_course": "PHYSICS 151"
+  },
+  {
+    "name": "AP Physics C - Elec & Mag with score of 4 or 5",
+    "credits": "4",
+    "gened": "PS",
+    "corresponding_course": "PHYSICS 152"
+  },
+  {
+    "name": "AP Psychology with score of 4 or 5",
+    "credits": "4",
+    "gened": "SB"
+  },
+  {
+    "name": "AP Spanish Language with score of 3",
+    "credits": "3"
+  },
+  {
+    "name": "AP Spanish Language with score of 4 or 5",
+    "credits": "6"
+  },
+  {
+    "name": "AP Spanish Literature with score of 3",
+    "credits": "3"
+  },
+  {
+    "name": "AP Spanish Literature with score of 4 or 5",
+    "credits": "7",
+    "gened": "AL"
+  },
+  {
+    "name": "AP Statistics with score of 4 or 5",
+    "credits": "4",
+    "gened": "R2"
+  }
+]

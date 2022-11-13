@@ -1,0 +1,101 @@
+[
+  {
+    "requirement": "COMPSCI 121",
+    "courses": [["COMPSCI 121"]]
+  },
+  {
+    "requirement": "COMPSCI 187",
+    "courses": [["COMPSCI 187"]]
+  },
+  {
+    "requirement": "COMPSCI 220",
+    "courses": [["COMPSCI 220"]]
+  },
+  {
+    "requirement": "COMPSCI 230",
+    "courses": [["COMPSCI 230"]]
+  },
+  {
+    "requirement": "COMPSCI 240",
+    "courses": [["COMPSCI 240"]]
+  },
+  {
+    "requirement": "COMPSCI 250",
+    "courses": [["COMPSCI 250"]]
+  },
+  {
+    "requirement": "COMPSCI 311",
+    "courses": [["COMPSCI 311"]]
+  },
+  {
+    "requirement": "Three additional CS electives numbered 400 or higher",
+    "courses": [["@400+", "@400+", "@400+"]]
+  },
+  {
+    "requirement": "Three additional CS electives numbered 300 or higher",
+    "courses": [["@300+", "@300+", "@300+"]]
+  },
+  {
+    "requirement": "One CS elective numbered 300 or above, or an outside elective from an approved list",
+    "courses": [["@CS Elective"]]
+  },
+
+  {
+    "requirement": "Junior Year Writing",
+    "courses": [["CICS 305"]]
+  },
+
+  {
+    "requirement": "CS Lab Science Requirement",
+    "courses": [["@CS Lab Science", "@CS Lab Science"]]
+  },
+
+  {
+    "requirement": "MATH 131",
+    "courses": [["MATH 131"]]
+  },
+  {
+    "requirement": "MATH 132",
+    "courses": [["MATH 132"]]
+  },
+  {
+    "requirement": "MATH 235",
+    "courses": [["MATH 235"]]
+  },
+  {
+    "requirement": "MATH 233 or STAT 515",
+    "courses": [["MATH 233"], ["STAT 515"]]
+  },
+
+  {
+    "requirement": "College Writing",
+    "courses": [["@CW"]]
+  },
+  {
+    "requirement": "Basic Math",
+    "courses": [["@R1"]]
+  },
+  {
+    "requirement": "Analytic Reasoning",
+    "courses": [["@R2"]]
+  },
+  {
+    "requirement": "Biological and Physical World",
+    "courses": [["@BS", "@PS"]]
+  },
+  {
+    "requirement": "Social World",
+    "courses": [
+      ["@AL", "@HS", "@SB", "@AL"],
+      ["@AL", "@HS", "@SB", "@AT"],
+      ["@AL", "@HS", "@SB", "@SB"],
+      ["@AL", "@HS", "@SB", "@I"],
+      ["@AL", "@HS", "@SB", "@SI"],
+      ["@AT", "@HS", "@SB", "@AL"],
+      ["@AT", "@HS", "@SB", "@AT"],
+      ["@AT", "@HS", "@SB", "@SB"],
+      ["@AT", "@HS", "@SB", "@I"],
+      ["@AT", "@HS", "@SB", "@SI"]
+    ]
+  }
+]

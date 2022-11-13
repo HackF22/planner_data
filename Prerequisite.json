@@ -1,0 +1,202 @@
+[
+  {
+    "course_id": "COMPSCI 121",
+    "prerequisite": "R1 (or a score of 20 or higher on the math placement test Part A), or one of the following courses: MATH 101&102 or MATH 104 or MATH 127 or MATH 128 or MATH 131 or MATH 132"
+  },
+  {
+    "course_id": "COMPSCI 145",
+    "prerequisite": " R1"
+  },
+  {
+    "course_id": "COMPSCI 198C",
+    "prerequisite": "COMPSCI 121 or COMPSCI 186 or INFO 190T/CICS 160"
+  },
+  {
+    "course_id": "COMPSCI 220",
+    "prerequisite": "COMPSCI 187"
+  },
+  {
+    "course_id": "COMPSCI 230",
+    "prerequisite": " COMPSCI 187"
+  },
+  {
+    "course_id": "COMPSCI 250",
+    "prerequisite": " COMPSCI 187 (or ECE 241 or INFO 190T/CICS 160) and MATH 132"
+  },
+  {
+    "course_id": "COMPSCI 311",
+    "prerequisite": "COMPSCI 187 and either COMPSCI 250 or MATH 455"
+  },
+  {
+    "course_id": "COMPSCI 320",
+    "prerequisite": " COMPSCI 220"
+  },
+  {
+    "course_id": "COMPSCI 325",
+    "prerequisite": "COMPSCI 186 (or COMPSCI 187)"
+  },
+  {
+    "course_id": "COMPSCI 328",
+    "prerequisite": " CS Majors: COMPSCI 187; INFORM Majors: INFO 248 and (COMPSCI 186 or COMPSCI 187 or INFO 190T/CICS 160)"
+  },
+  {
+    "course_id": "COMPSCI 345",
+    "prerequisite": " CS Majors: COMPSCI 187; INFORM Majors: INFO 248 and (COMPSCI 186 or COMPSCI 187 or INFO 190T/CICS 160)"
+  },
+  {
+    "course_id": "COMPSCI 370",
+    "prerequisite": " COMPSCI 240 or 383"
+  },
+  {
+    "course_id": "COMPSCI 389",
+    "prerequisite": "COMPSCI 220 (or COMPSCI 230), COMPSCI 240 (or STAT 515), and MATH 233"
+  },
+  {
+    "course_id": "COMPSCI 391L",
+    "prerequisite": "COMPSCI 230 and ENGLWRIT 112"
+  },
+  {
+    "course_id": "COMPSCI 446",
+    "prerequisite": "COMPSCI 240 or COMPSCI 383"
+  },
+  {
+    "course_id": "COMPSCI 491G",
+    "prerequisite": "COMPSCI 453"
+  },
+  {
+    "course_id": "COMPSCI 550",
+    "prerequisite": "COMPSCI 187 and STAT 515"
+  },
+  {
+    "course_id": "COMPSCI 590J",
+    "prerequisite": "COMPSCI 230 (or ECE 322) and COMPSCI 360 (or COMPSCI 460 or ECE 371)"
+  },
+  {
+    "course_id": "COMPSCI 590W",
+    "prerequisite": "COMPSCI 240 or STATISTCS 515"
+  },
+  {
+    "course_id": "CICS 256",
+    "prerequisite": "COMPSCI 187 and Basic Math Skills (R1)"
+  },
+  {
+    "course_id": "CICS 305",
+    "prerequisite": "CS Majors:  ENGLWRIT 112 (or English Writing waiver), COMPSCI 220, COMPSCI 230 and COMPSCI 240 (or 250); INFORM Majors:  ENGLWRIT 112 (or English Writing waiver) AND INFO 248"
+  },
+  {
+    "course_id": "CICS 490E",
+    "prerequisite": " COMPSCI 186 or COMPSCI 187"
+  },
+  {
+    "course_id": "INFO 150",
+    "prerequisite": "R1 math skills recommended"
+  },
+  {
+    "course_id": "INFO 190S",
+    "prerequisite": "R1 (or a score of 20 or higher on the math placement test Part A), or one of the following courses: MATH 101&102 or MATH 104 or MATH 127 or MATH 128 or MATH 131 or MATH 132"
+  },
+  {
+    "course_id": "INFO 490C",
+    "prerequisite": "INFO 248"
+  },
+  {
+    "course_id": "INFO 190S",
+    "prerequisite": "R1 (or a score of 20 or higher on the math placement test Part A), or one of the following courses: MATH 101&102 or MATH 104 or MATH 127 or MATH 128 or MATH 131 or MATH 132"
+  },
+  {
+    "course_id": "ECE 201",
+    "prerequisite": "MATH 132. (A grade of C or better in MATH 132 is strongly recommended.)"
+  },
+  {
+    "course_id": "ECE 214",
+    "prerequisite": "E&C-ENG 201, 202, and 210."
+  },
+  {
+    "course_id": "ECE 241",
+    "prerequisite": "E&C-ENG 122."
+  },
+  {
+    "course_id": "ECE 303",
+    "prerequisite": "grade of C or better in E&C-ENG 212, 222 or 232."
+  },
+  {
+    "course_id": "ECE 344",
+    "prerequisite": "E&C-ENG 212."
+  },
+  {
+    "course_id": "ECE 415",
+    "prerequisite": "E&C-ENG\u00a0324 or 354."
+  },
+  {
+    "course_id": "ECE 416",
+    "prerequisite": "E&C-ENG 415."
+  },
+  {
+    "course_id": "ECE 559",
+    "prerequisite": "E&C-ENG 558."
+  },
+  {
+    "course_id": "ECE 564",
+    "prerequisite": "E&C-ENG 563."
+  },
+  {
+    "course_id": "ECE 565",
+    "prerequisite": "E&C-ENG 563."
+  },
+  {
+    "course_id": "ECE 568",
+    "prerequisite": "E&C-ENG 232."
+  },
+  {
+    "course_id": "ECE 571",
+    "prerequisite": "E&C-ENG 344."
+  },
+  {
+    "course_id": "ECE 572",
+    "prerequisite": "E&C-ENG 344."
+  },
+  {
+    "course_id": "ECE 580",
+    "prerequisite": "E&C-Eng 313."
+  },
+  {
+    "course_id": "ECE 603",
+    "prerequisite": "E&C-Eng 364 or equivalent."
+  },
+  {
+    "course_id": "ECE 607",
+    "prerequisite": "ECE 344 or equivalent."
+  },
+  {
+    "course_id": "ECE 608",
+    "prerequisite": "graduate standing."
+  },
+  {
+    "course_id": "ECE 609",
+    "prerequisite": "E&C-Eng 344, or introductory semiconductor theory course."
+  },
+  {
+    "course_id": "ECE 645",
+    "prerequisite": "undergraduate probability. Open to Graduate students only."
+  },
+  {
+    "course_id": "ECE 659",
+    "prerequisite": "E&C-ENG 558."
+  },
+  {
+    "course_id": "ECE 668",
+    "prerequisite": "undergraduate courses in digital design and hardware organization."
+  },
+  {
+    "course_id": "ECE 683",
+    "prerequisite": "E&C-ENG 585."
+  },
+  {
+    "course_id": "ECE 686",
+    "prerequisite": "E&C-ENG 584 or equivalent."
+  },
+  {
+    "course_id": "ECE 687",
+    "prerequisite": "E&C-Eng 334 or equivalent."
+  }
+]

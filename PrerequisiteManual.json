@@ -1,0 +1,606 @@
+[
+    {
+      "course_id": "COMPSCI 121",
+      "prerequisite": [
+        ["@R1"],
+        ["MATH 101", "MATH 102"],
+        ["MATH 127"],
+        ["MATH 128"],
+        ["MATH 131"],
+        ["MATH 132"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 145",
+      "prerequisite": [
+        ["@R1"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 186",
+      "prerequisite": [
+        ["@R1"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 187",
+      "prerequisite": [
+        ["@R1", "COMPSCI 121"],
+        ["MATH 101", "MATH 102", "COMPSCI 121"],
+        ["MATH 127", "COMPSCI 121"],
+        ["MATH 128", "COMPSCI 121"],
+        ["MATH 131", "COMPSCI 121"],
+        ["MATH 132", "COMPSCI 121"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 198C",
+      "prerequisite": [
+        ["COMPSCI 121"],
+        ["COMPSCI 186"],
+        ["COMPSCI 190D"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 220",
+      "prerequisite": [
+        ["COMPSCI 187"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 230",
+      "prerequisite": [
+        ["COMPSCI 187"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 240",
+      "prerequisite": [
+        ["COMPSCI 187"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 250",
+      "prerequisite": [
+        ["COMPSCI 187", "MATH 132"],
+        ["ECE 241", "MATH 132"],
+        ["INFO 190T", "MATH 132"],
+        ["CICS 160", "MATH 132"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 311",
+      "prerequisite": [
+        ["COMPSCI 187", "COMPSCI 250"],
+        ["COMPSCI 187", "MATH 455"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 320",
+      "prerequisite": [
+        ["COMPSCI 220"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 325",
+      "prerequisite": [
+        ["COMPSCI 186"],
+        ["COMPSCI 187"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 326",
+      "prerequisite": [
+        ["COMPSCI 220"],
+        ["COMPSCI 230"],
+        ["INFO 248", "COMPSCI 186"],
+        ["INFO 248", "COMPSCI 187"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 328",
+      "prerequisite": [
+        ["COMPSCI 187"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 335",
+      "prerequisite": [
+        ["COMPSCI 220"],
+        ["COMPSCI 230"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 345",
+      "prerequisite": [
+        ["COMPSCI 187"],
+        ["COMPSCI 186", "INFO 248"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 348",
+      "prerequisite": [
+        ["COMPSCI 187"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 360",
+      "prerequisite": [
+        ["COMPSCI 230"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 370",
+      "prerequisite": [
+        ["COMPSCI 240"],
+        ["COMPSCI 383"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 373",
+      "prerequisite": [
+        ["COMPSCI 240"],
+        ["COMPSCI 383"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 377",
+      "prerequisite": [
+        ["COMPSCI 230"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 383",
+      "prerequisite": [
+        ["COMPSCI 220", "COMPSCI 240"],
+        ["COMPSCI 240", "STAT 515"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 389",
+      "prerequisite": [
+        ["COMPSCI 220", "COMPSCI 240", "MATH 233"],
+        ["COMPSCI 230", "COMPSCI 240", "MATH 233"],
+        ["COMPSCI 220", "STAT 515", "MATH 233"],
+        ["COMPSCI 230", "STAT 515", "MATH 233"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 391L",
+      "prerequisite": [
+        ["COMPSCI 230", "ENGLWRIT 112"],
+        ["COMPSCI 230", "ENGLWRIT 112H"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 403",
+      "prerequisite": [
+        ["MATH 235", "COMPSCI 220"],
+        ["MATH 235", "COMPSCI 230"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 410",
+      "prerequisite": [
+        ["COMPSCI 250", "COMPSCI 377"],
+        ["MATH 455", "COMPSCI 377"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 420",
+      "prerequisite": [
+        ["COMPSCI 326"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 429",
+      "prerequisite": [
+        ["COMPSCI 320"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 445",
+      "prerequisite": [
+        ["COMPSCI 220", "COMPSCI 311", "COMPSCI 345"],
+        ["COMPSCI 230", "COMPSCI 311", "COMPSCI 345"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 446",
+      "prerequisite": [
+        ["COMPSCI 240"],
+        ["COMPSCI 383"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 453",
+      "prerequisite": [
+        ["COMPSCI 230"],
+        ["COMPSCI 377"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 461",
+      "prerequisite": [
+        ["COMPSCI 326"],
+        ["COMPSCI 345"],
+        ["COMPSCI 377"],
+        ["COMPSCI 453"],
+        ["COMPSCI 497P"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 466",
+      "prerequisite": [
+        ["COMPSCI 311"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 490A",
+      "prerequisite": [
+        ["COMPSCI 325"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 490U",
+      "prerequisite": [
+        ["COMPSCI 240"],
+        ["COMPSCI 383"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 491G",
+      "prerequisite": [
+        ["COMPSCI 453"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 497S",
+      "prerequisite": [
+        ["COMPSCI 326"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 501",
+      "prerequisite": [
+        ["COMPSCI 311"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 508",
+      "prerequisite": [
+        ["COMPSCI 900"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 513",
+      "prerequisite": [
+        ["COMPSCI 250"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 514",
+      "prerequisite": [
+        ["COMPSCI 240", "COMPSCI 311"],
+        ["STAT 515", "COMPSCI 311"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 520",
+      "prerequisite": [
+        ["COMPSCI 320"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 528",
+      "prerequisite": [
+        ["COMPSCI 230", "COMPSCI 240"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 529",
+      "prerequisite": [
+        ["COMPSCI 320"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 532",
+      "prerequisite": [
+        ["COMPSCI 311", "COMPSCI 345", "COMPSCI 377"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 535",
+      "prerequisite": [
+        ["COMPSCI 335"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 546",
+      "prerequisite": [
+        ["COMPSCI 320", "COMPSCI 383"],
+        ["COMPSCI 320", "COMPSCI 446"],
+        ["COMPSCI 320", "COMPSCI 585"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 550",
+      "prerequisite": [
+        ["COMPSCI 187", "STAT 515"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 561",
+      "prerequisite": [
+        ["COMPSCI 460", "COMPSCI 453"],
+        ["COMPSCI 597N", "COMPSCI 453"],
+        ["COMPSCI 660", "COMPSCI 453"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 563",
+      "prerequisite": [
+        ["COMPSCI 311"],
+        ["COMPSCI 383"],
+        ["COMPSCI 460"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 571",
+      "prerequisite": [
+        ["COMPSCI 220"],
+        ["COMPSCI 230"],
+        ["COMPSCI 326"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 574",
+      "prerequisite": [
+        ["COMPSCI 311", "COMPSCI 383", "COMPSCI 373"],
+        ["COMPSCI 311", "COMPSCI 383", "COMPSCI 473"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 575",
+      "prerequisite": [
+        ["COMPSCI 250"],
+        ["MATH 455"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 576",
+      "prerequisite": [
+        ["COMPSCI 220", "COMPSCI 311", "MATH 235"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 589",
+      "prerequisite": [
+        ["MATH 545", "COMPSCI 240"],
+        ["MATH 235", "MATH 233", "COMPSCI 240"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 590J",
+      "prerequisite": [
+        ["COMPSCI 230", "COMPSCI 460"],
+        ["COMPSCI 230", "ECE 371"],
+        ["ECE 322", "COMPSCI 460"],
+        ["ECE 322", "ECE 371"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 590K",
+      "prerequisite": [
+        ["COMPSCI 365"],
+        ["COMPSCI"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 590T",
+      "prerequisite": [
+        ["COMPSCI 240"],
+        ["COMPSCI 250"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 590W",
+      "prerequisite": [
+        ["COMPSCI 240"],
+        ["STATISTCS 515"]
+      ]
+    },
+    {
+      "course_id": "COMPSCI 591NR",
+      "prerequisite": [
+        ["COMPSCI 311"]
+      ]
+    },
+    {
+      "course_id": "CICS 191FY1",
+      "prerequisite": [
+        ["COMPSCI 240"],
+        ["STATISTCS 515"]
+      ]
+    },
+    {
+      "course_id": "CICS 256",
+      "prerequisite": [
+        ["COMPSCI 187", "@R1"]
+      ]
+    },
+    {
+      "course_id": "CICS 305",
+      "prerequisite": [
+        ["ENGLWRIT 112", "COMPSCI 220", "COMPSCI 230", "COMPSCI 240"],
+        ["ENGLWRIT 112", "COMPSCI 220", "COMPSCI 230", "COMPSCI 250"],
+        ["ENGLWRIT 112H", "COMPSCI 220", "COMPSCI 230", "COMPSCI 240"],
+        ["ENGLWRIT 112H", "COMPSCI 220", "COMPSCI 230", "COMPSCI 250"]
+      ]
+    },
+    {
+      "course_id": "CICS 490E",
+      "prerequisite": [
+        ["COMPSCI 186"],
+        ["COMPSCI 187"]
+      ]
+    },
+    {
+      "course_id": "INFO 190S",
+      "prerequisite": [
+        ["@R1"],
+        ["MATH 101", "MATH 102"],
+        ["MATH 127"],
+        ["MATH 128"],
+        ["MATH 131"],
+        ["MATH 132"]
+      ]
+    },
+    {
+      "course_id": "INFO 490C",
+      "prerequisite": [
+        ["INFO 248"]
+      ]
+    },
+    {
+      "course_id": "INFO 190S",
+      "prerequisite": [
+        ["@R1"],
+        ["MATH 101", "MATH 102"],
+        ["MATH 127"],
+        ["MATH 128"],
+        ["MATH 131"],
+        ["MATH 132"]
+      ]
+    
+    },
+    {
+      "course_id": "ECE 201",
+      "prerequisite": [
+        ["MATH 132"]
+      ]
+    },
+    {
+      "course_id": "ECE 214",
+      "prerequisite": [
+        ["ECE 201", "ECE 202", "ECE 210"]
+      ]
+    },
+    {
+      "course_id": "ECE 241",
+      "prerequisite": [
+        ["ECE 122"]
+      ]
+    },
+    {
+      "course_id": "ECE 303",
+      "prerequisite": [
+        ["ECE 212"],
+        ["ECE 222"],
+        ["ECE 232"]
+      ]
+    },
+    {
+      "course_id": "ECE 344",
+      "prerequisite": [
+        ["ECE 212"]
+      ]
+    },
+    {
+      "course_id": "ECE 415",
+      "prerequisite": [
+        ["ECE 324"],
+        ["ECE 354"]
+      ]
+    },
+    {
+      "course_id": "ECE 416",
+      "prerequisite": [
+        ["ECE 415"]
+      ]
+    },
+    {
+      "course_id": "ECE 559",
+      "prerequisite": [
+        ["ECE 558"]
+      ]
+    },
+    {
+      "course_id": "ECE 564",
+      "prerequisite": [
+        ["ECE 563"]
+      ]
+    },
+    {
+      "course_id": "ECE 565",
+      "prerequisite": [
+        ["ECE 563"]
+      ]
+    },
+    {
+      "course_id": "ECE 568",
+      "prerequisite": [
+        ["ECE 232"]
+      ]
+    },
+    {
+      "course_id": "ECE 571",
+      "prerequisite": [
+        ["ECE 344"]
+      ]
+    },
+    {
+      "course_id": "ECE 572",
+      "prerequisite": [
+        ["ECE 344"]
+      ]
+    },
+    {
+      "course_id": "ECE 580",
+      "prerequisite": [
+        ["ECE 313"]
+      ]
+    },
+    {
+      "course_id": "ECE 603",
+      "prerequisite": [
+        ["ECE 364"]
+      ]
+    },
+    {
+      "course_id": "ECE 607",
+      "prerequisite": [
+        ["ECE 344"]
+      ]
+    },
+    {
+      "course_id": "ECE 609",
+      "prerequisite": [
+        ["ECE 344"]
+      ]
+    },
+    {
+      "course_id": "ECE 659",
+      "prerequisite": [
+        ["ECE 558"]
+      ]
+    },
+    {
+      "course_id": "ECE 683",
+      "prerequisite": [
+        ["ECE 585"]
+      ]
+    },
+    {
+      "course_id": "ECE 686",
+      "prerequisite": [
+        ["ECE 584"]
+      ]
+    },
+    {
+      "course_id": "ECE 687",
+      "prerequisite": [
+        ["ECE 334"]
+      ]
+    }
+]
